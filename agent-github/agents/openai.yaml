@@ -1,6 +1,0 @@
-interface:
-  display_name: "猫砂竞品评论洞察"
-  short_description: "采集公开评论并生成猫砂竞品洞察"
-  default_prompt: "Use $cat-litter-review-insights to collect eligible public reviews for these cat-litter products and produce an evidence-bounded comparison."
-policy:
-  allow_implicit_invocation: true
